@@ -1,3 +1,12 @@
+This is a fork of the Ubuntu version of the Linux kernel version 4.4.16. It has been patched using this patch
+
+[http://askubuntu.com/questions/672750/standby-and-shutdown-hang-on-macbook-pro-11-4](http://askubuntu.com/questions/672750/standby-and-shutdown-hang-on-macbook-pro-11-4)
+
+which I've successfully installed using the first method from this page [https://help.ubuntu.com/community/forum/software/CustomKernel](Ubuntu Forums CustomKernel)
+ (clone this repo instead of using apt to fetch the source)
+ 
+ -Brad
+
         Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
